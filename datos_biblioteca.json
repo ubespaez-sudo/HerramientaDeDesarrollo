@@ -1,64 +1,9 @@
 {
-    "libros": [
-        {
-            "titulo": "1984",
-            "autor": "George Orwell",
-            "disponible": true
-        },
-        {
-            "titulo": "Cien años de soledad",
-            "autor": "Gabriel García Márquez",
-            "disponible": true
-        },
-        {
-            "titulo": "Don Quijote de la Mancha",
-            "autor": "Miguel de Cervantes",
-            "disponible": true
-        },
-        {
-            "titulo": "La casa de los espíritus",
-            "autor": "Isabel Allende",
-            "disponible": true
-        },
-        {
-            "titulo": "Crimen y castigo",
-            "autor": "Fyodor Dostoevsky",
-            "disponible": true
-        },
-        {
-            "titulo": "El gran Gatsby",
-            "autor": "F. Scott Fitzgerald",
-            "disponible": true
-        },
-        {
-            "titulo": "Orgullo y prejuicio",
-            "autor": "Jane Austen",
-            "disponible": true
-        },
-        {
-            "titulo": "El principito",
-            "autor": "Antoine de Saint-Exupéry",
-            "disponible": true
-        },
-        {
-            "titulo": "Matar a un ruiseñor",
-            "autor": "Harper Lee",
-            "disponible": true
-        },
-        {
-            "titulo": "Ulises",
-            "autor": "James Joyce",
-            "disponible": true
-        }
-    ],
+    "libros": [],
     "usuarios": [
         {
-            "nombre": "Juan Pérez",
-            "dni": 12345678
-        },
-        {
-            "nombre": "Ana Gómez",
-            "dni": 23456789
+            "nombre": "Ubes",
+            "dni": 78912345
         }
     ]
 }
